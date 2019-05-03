@@ -6,7 +6,7 @@ This program implements the Bayesian phylogenetic model for gene duplication and
 #### Environment 
 OS system is recommanded. An executable file is also included for windows users.
 
-####Installation and usage
+#### Installation and usage
 
 Simply put "A-phylogenetic-model-for-understanding-the-effect-of-gene-duplication-on-cancer-progression-master.zip" in any directory.
 
