@@ -32,7 +32,7 @@ To run the program, type
 ```
  It will generate an output file .out in which the loglikelihood and model parameter m are sampled from the MCMC algorithm. The posterior distribution of the phylogenetic tree is saved in the output file .tre.
 
-##### For windows system users
+#### For windows system users
 
 
 #### Contact
