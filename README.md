@@ -1,3 +1,5 @@
+## Usage
+
 #### Introduction
 This program implements the Bayesian phylogenetic model for gene duplication and deletion.
 
