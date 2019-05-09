@@ -9,7 +9,7 @@ As biotechnology advances rapidly, a tremendous amount of cancer genetic data ha
 This program implements the Bayesian phylogenetic model for gene duplication and deletion.
 
 ## Environment 
-Mac OS system is recommanded. An executable file is also included for windows users.
+Mac OS system is recommanded. An executable file is also included for windows users.(Tested 5/9/2019)
 
 # Usage
 
